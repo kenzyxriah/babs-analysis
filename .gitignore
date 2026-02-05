@@ -1,4 +1,4 @@
-analytics\.env
+\.env
 *.md
 *.pdf
-analytics/db
+\db
