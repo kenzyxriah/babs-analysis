@@ -1,0 +1,4 @@
+metric,users,rate
+Meet attendance >=70%,20,0.017241379310344827
+Meet assignments >=70%,6,0.005172413793103448
+Meet both (strict completion),0,0.0

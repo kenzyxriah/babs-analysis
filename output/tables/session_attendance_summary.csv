@@ -1,0 +1,116 @@
+liveSessionId,sessionTitle,scheduledAt,assignedCount,attendedCount,joinRate,newFaces,newFaceRate
+0b8e8d13-92b3-4871-8b2a-58499747e40b,Salesforce Admin Essentials Week 3 ,2025-12-10 00:00:00,24.0,10.0,0.4166666666666667,1.0,0.1
+0d22a704-369e-4ceb-ae92-fc39404d9436,6 -Weeks Interview Prep Boot Camp - Week 12 [Day 3],2025-09-07 23:00:00,75.0,21.0,0.28,0.0,0.0
+0f302abd-5c17-4426-9fa6-637518adf399,Advanced Salesforce  Service Cloud Week 1 Day 2,2026-02-06 00:00:00,35.0,0.0,0.0,0.0,
+0f6e26e1-1fc7-4ebc-a6ea-05874eb1fa43,6 -Weeks Interview Prep Boot Camp,2025-06-19 14:30:00,1.0,0.0,0.0,0.0,
+16fa69fc-763a-4fb2-8107-a314733d50ad,6 -Weeks Interview Prep Boot Camp - Week 11 [Day 1],2025-08-28 22:00:00,74.0,18.0,0.24324324324324326,0.0,0.0
+17402313-aafc-4f18-8186-75e14a96b94f,Data Analytics & Business Intelligence Week 2 Day 1,2026-01-24 00:00:00,52.0,15.0,0.28846153846153844,1.0,0.06666666666666667
+1caafc10-945a-4349-8484-0ffaad59dc22,Triple Play Course A. Salesforce Project Implementations  Week 1 Day 2,2025-07-20 22:00:00,61.0,19.0,0.3114754098360656,1.0,0.05263157894736842
+1d8f3435-1e69-4b5b-a6a5-462e0330811a,Salesforce Admin Essentials Week 9 Day 1 ,2026-01-27 00:00:00,71.0,8.0,0.11267605633802817,0.0,0.0
+273ffaee-00dd-445d-a30d-92a8729b0bfa,Data Analytics & Business Intelligence Week 2 Day 2,2026-01-24 17:00:00,53.0,17.0,0.32075471698113206,1.0,0.058823529411764705
+276c5c30-3fce-4f46-a9ef-b32dc06e79c4,6 -Weeks Interview Prep Boot Camp - Week 2 [Day 3],2025-06-15 22:00:00,43.0,3.0,0.06976744186046512,3.0,1.0
+2cfc9ad3-bdd7-4a11-8252-ca509b0e0038,Town Hall Meeting ,2026-01-26 23:00:00,67.0,1.0,0.014925373134328358,0.0,0.0
+2d1cc188-a92a-410b-a29f-c01bd1478392,6 -Weeks Interview Prep Boot Camp - Week 6 [Day 1],2025-07-11 22:00:00,58.0,24.0,0.41379310344827586,0.0,0.0
+318e658a-73ae-4d49-b48b-43f9be211339,Triple Play Course B. Salesforce Flow Automation Implementations Week 2 Day 2,2025-08-24 22:00:00,73.0,17.0,0.2328767123287671,0.0,0.0
+374da427-b916-4860-9468-52f054c72588,Salesforce Admin Essentials Week 8 Day 2,2026-01-21 00:00:00,68.0,14.0,0.20588235294117646,0.0,0.0
+38c03d34-cfdf-453a-83d7-140fd66ddfa6,6 -Weeks Interview Prep Boot Camp - Week 2 [Day 2],2025-06-14 22:00:00,0.0,0.0,,0.0,
+3913946f-4377-463e-9f3f-f85fa1face98,Data Analytics & Business Intelligence Week 2 Day 4,2026-02-01 20:00:00,40.0,20.0,0.5,0.0,0.0
+39da4132-c055-4b37-ba94-74adbad3b9f1,Triple Play Course B. Salesforce Flow Automation Implementations Week 8 Day 2,2025-10-11 22:00:00,79.0,10.0,0.12658227848101267,1.0,0.1
+3a8bc7d8-66bc-48db-9b16-4c2ad661b12c,Salesforce Admin Essentials Week 4 Day 2,2025-12-17 00:00:00,28.0,13.0,0.4642857142857143,0.0,0.0
+3d653563-21aa-4adc-912b-4cf8d74b2901,Triple Play Course B. Salesforce Flow Automation Implementations Week 5 Day 1,2025-09-14 22:00:00,74.0,12.0,0.16216216216216217,0.0,0.0
+4024076c-807f-4bee-ad95-f9b2bd10196f,Triple Play Course A. Salesforce Project Implementations  Week 2 Day 1,2025-07-26 22:00:00,67.0,21.0,0.31343283582089554,2.0,0.09523809523809523
+48440dc4-5cb3-4128-8fc7-b71a0b4ef260,6 -Weeks Interview Prep Boot Camp - Week 5 [Day 3],2025-07-06 22:00:00,58.0,4.0,0.06896551724137931,0.0,0.0
+49dcee37-0948-41bb-8c24-047f88db29cc,Salesforce Experience Cloud Week 2 Day 2,2026-01-21 02:00:00,37.0,12.0,0.32432432432432434,0.0,0.0
+4b94f7f1-b7cc-4cb6-a05c-635e6c2d1988,Triple Play Course A. Salesforce Project Implementations  Week 2 Day 2,2025-07-27 22:00:00,66.0,17.0,0.25757575757575757,0.0,0.0
+4e461e2b-a0bb-4a25-b204-95fae0e1f0f6,Triple Play Course B. Salesforce Flow Automation Implementations Week 7 Day 2,2025-10-03 23:00:00,77.0,12.0,0.15584415584415584,1.0,0.08333333333333333
+4ecaaec7-6a28-448a-9d60-0b5ce5a05ce5,Triple Play Course A. Salesforce Project Implementations  Week 4 Day 2,2025-08-10 22:00:00,68.0,19.0,0.27941176470588236,1.0,0.05263157894736842
+5655259c-471e-4b72-8aaa-5b84f74a49dc,6 -Weeks Interview Prep Boot Camp - Week 9 [Day 1],2025-08-14 22:00:00,71.0,21.0,0.29577464788732394,1.0,0.047619047619047616
+571d0852-16c3-482b-8dfe-dafe5c7c3b82,Advanced Salesforce  Service Cloud Week 1 Day 1,2026-02-04 00:00:00,35.0,18.0,0.5142857142857142,1.0,0.05555555555555555
+5805f658-ff4f-4541-866e-82f85ec7adfb,Data Analyst & Power BI Mock Interview Prep Series Week 4 Day 1,2025-11-01 03:00:00,80.0,7.0,0.0875,1.0,0.14285714285714285
+596fcd0d-d7d8-4bef-8a8f-71e1d64344f0,Data Analyst & Power BI Mock Interview Prep Series Week 2 Day 4,2025-10-17 03:00:00,79.0,0.0,0.0,0.0,
+598b9cad-aaff-46d9-bb9d-3a6adbf71017,Data Analyst & Power BI Mock Interview Prep Series Week 2 Day 2,2025-10-15 04:00:00,78.0,3.0,0.038461538461538464,0.0,0.0
+5b1a1d2d-2a55-4436-a33a-c0eac56b9d2f,Salesforce Admin Essentials Final Day,2026-02-03 00:00:00,75.0,8.0,0.10666666666666667,0.0,0.0
+60b747f8-9999-454e-bcdf-b14c8c783bb7,Salesforce Admin Essentials Week 7 Day 2,2026-01-14 00:00:00,108.0,12.0,0.1111111111111111,1.0,0.08333333333333333
+60eb543a-0539-4ab3-9c4b-ffc659bdb9dd,Triple Play Course A. Salesforce Project Implementations  Week 3 Day 2,2025-08-03 22:00:00,66.0,17.0,0.25757575757575757,0.0,0.0
+61f416db-bb4b-47c1-81f4-aef4719ecc07,Salesforce Admin Essentials Week 2 ,2025-12-02 00:00:00,21.0,4.0,0.19047619047619047,2.0,0.5
+62d13fac-6223-4516-9170-720fd39245a7,Triple Play Course Gamma. Salesforce Admin Essentials Extra Class Week 4,2025-12-19 00:00:00,61.0,4.0,0.06557377049180328,2.0,0.5
+6636241f-3395-4b5e-a0d1-07956742cf2d,Triple Play Course B. Salesforce Flow Automation Implementations Week 9 Day 1,2025-10-12 19:00:00,79.0,5.0,0.06329113924050633,0.0,0.0
+66d59909-80ec-4d3c-9326-4af86b988315,Triple Play Course B. Salesforce Flow Automation Implementations Week 5 Day 2,2025-09-20 22:00:00,75.0,14.0,0.18666666666666668,1.0,0.07142857142857142
+670500f0-9be0-4a95-8b9d-481c4770a38e,HubSpot CRM Week 1 Day 1,2026-01-17 00:00:00,48.0,21.0,0.4375,2.0,0.09523809523809523
+6755293e-6e8c-417c-a556-adde0becefb8,Salesforce Experience Cloud Week 4 Day 1,2026-02-03 02:00:00,32.0,12.0,0.375,0.0,0.0
+6761b0ad-4d66-4fad-8bc3-84a6ae139e2c,Salesforce Experience Cloud Week 2 Day 1,2026-01-20 02:00:00,33.0,12.0,0.36363636363636365,0.0,0.0
+6b9a984f-3c50-4e21-b3fc-edcb589cc4d3,Triple Play Course B. Salesforce Flow Automation Implementations Week 4 Day 1,2025-09-03 23:00:00,74.0,11.0,0.14864864864864866,1.0,0.09090909090909091
+6c64d088-b5fa-441b-9bf2-a50c1d04679a,Data Analyst & Power BI Mock Interview Prep Series Week 2 Day 1,2025-10-14 03:00:00,78.0,7.0,0.08974358974358974,0.0,0.0
+6ce138dc-fe2b-463a-bf3b-b6e9b84de7cc,Triple Play Course B. Salesforce Flow Automation Implementations Week 6 Day 2,2025-09-27 22:00:00,76.0,9.0,0.11842105263157894,0.0,0.0
+6cf85e00-796d-4993-9fb8-89d2f0c3d996,Salesforce Admin Essentials Week 6 Day 1,2026-01-06 00:20:00,99.0,2.0,0.020202020202020204,2.0,1.0
+6d1d6cbf-1662-4b8e-b53a-84bcafd2fb2b,Data Analyst & Power BI Mock Interview Prep Series Week 3 Day 1,2025-10-22 03:00:00,79.0,6.0,0.0759493670886076,1.0,0.16666666666666666
+6fa4ae65-ac9f-4607-a63c-03108fcf7ffd,Data Analytics & Business Intelligence Week 1 Day 2,2026-01-20 00:00:00,48.0,22.0,0.4583333333333333,3.0,0.13636363636363635
+6fa9c3e2-088c-4f4a-8155-38e178c5a5d6,6 -Weeks Interview Prep Boot Camp - Week 13 [Day 1],2025-09-11 22:00:00,75.0,15.0,0.2,0.0,0.0
+70da2952-ccc6-4cb6-b026-6fd1f6d81f26,Triple Play Course A. Salesforce Project Implementations  Week 3 Day 1,2025-08-02 22:00:00,63.0,15.0,0.23809523809523808,0.0,0.0
+7266a7f2-e00e-48d4-bf53-d9849ccb3a4d,6 -Weeks Interview Prep Boot Camp - Week 12 [Day 1],2025-09-04 22:00:00,75.0,14.0,0.18666666666666668,0.0,0.0
+767f378a-7a58-4f3b-8513-cc8b8ec4e8a6,Salesforce Admin Essentials Week 8 Day 1 ,2026-01-20 00:00:00,74.0,11.0,0.14864864864864866,0.0,0.0
+77aea6d1-5a94-4081-ad80-5711437b52b2,Salesforce Admin Essentials Week 5 Day 2,2025-12-24 00:00:00,100.0,10.0,0.1,1.0,0.1
+79a94186-e9a8-4152-8127-58ab9731f780,Data Analyst & Power BI Mock Interview Prep Series Week 2 Day 3,2025-10-16 03:00:00,79.0,5.0,0.06329113924050633,0.0,0.0
+7d78e7c2-e3eb-4c14-93cd-fe3f75772c4e,Data Analyst & Power BI Mock Interview Prep Series Week 3 Day 2,2025-10-23 04:00:00,80.0,3.0,0.0375,1.0,0.3333333333333333
+7ed6b957-9233-4880-9810-1f847af2e67b,Data Analytics & Business Intelligence Week 2 Day 3,2026-01-31 17:00:00,41.0,14.0,0.34146341463414637,0.0,0.0
+83baa437-3ce5-4815-acc9-b5e74d22eab7,Salesforce Admin Essentials Week 9 Day 2,2026-01-28 00:00:00,72.0,8.0,0.1111111111111111,1.0,0.125
+84fa5766-9235-4a98-9486-a6ccef1bd000,HubSpot CRM Week 2 Day 1,2026-01-24 00:00:00,41.0,19.0,0.4634146341463415,2.0,0.10526315789473684
+86ba8867-b878-473d-9c65-6b9374612f39,Salesforce Experience Cloud Week 4 Day 2,2026-02-04 02:00:00,32.0,10.0,0.3125,0.0,0.0
+8f9fb187-707b-40eb-be6c-aaa1f6081f47,Salesforce Admin Essentials Week 7 Day 1,2026-01-13 00:00:00,107.0,17.0,0.1588785046728972,2.0,0.11764705882352941
+901d6bf2-a52e-4962-83a9-2196bcf8b212,Salesforce Experience Cloud Week 1 Day 1,2026-01-13 02:00:00,43.0,14.0,0.32558139534883723,1.0,0.07142857142857142
+921554c8-ba3f-4c0f-828a-7d4b7d2c5f28,Data Analytics & Business Intelligence Week 1 Day 1,2026-01-18 20:00:00,49.0,14.0,0.2857142857142857,6.0,0.42857142857142855
+947b06ee-fefb-4505-ac3a-c99b7e3c6fd0,Triple Play Course B. Salesforce Flow Automation Implementations Week 3 Day 2,2025-09-02 23:00:00,73.0,9.0,0.1232876712328767,0.0,0.0
+97095ed4-860f-47f7-89c1-174e6cbd53db,Triple Play Course B. Salesforce Flow Automation Implementations Week 8 Day 1,2025-10-05 22:00:00,77.0,12.0,0.15584415584415584,0.0,0.0
+9e82ff94-47bb-4fdc-9132-bf9653e92a16,Data Analyst & Power BI Mock Interview Prep Series Week 1 Day 2,2025-10-09 03:00:00,77.0,5.0,0.06493506493506493,0.0,0.0
+9eac0160-21eb-473a-aa02-28103b3d5a40,Salesforce Experience Cloud Week 3 Day 2,2026-01-28 02:00:00,27.0,7.0,0.25925925925925924,0.0,0.0
+9ebf536a-7015-4599-b14d-335e91abaad3,6 -Weeks Interview Prep Boot Camp - Week 8 [Day 2],2025-08-09 15:00:00,70.0,16.0,0.22857142857142856,0.0,0.0
+9f81319b-4e54-48aa-8ffe-9367423042bf,6 -Weeks Interview Prep Boot Camp - Week 13 [Day 2],2025-09-12 22:00:00,74.0,16.0,0.21621621621621623,0.0,0.0
+9fa38241-6ea1-49b8-b4e3-b777345650be,6 -Weeks Interview Prep Boot Camp - Week 5 [Day 2],2025-07-05 22:00:00,60.0,22.0,0.36666666666666664,1.0,0.045454545454545456
+a2507666-5a5f-45f9-8487-25773ed4e12a,6 -Weeks Interview Prep Boot Camp - Week 10 [Day 4],2025-08-24 18:00:00,74.0,8.0,0.10810810810810811,0.0,0.0
+a29c4449-be25-4a47-8f13-a74e2649b642,HubSpot CRM Week 3 Day 1,2026-02-07 00:00:00,36.0,0.0,0.0,0.0,
+a5fbdc52-b832-4f95-930f-348ec8449563,Triple Play Course B. Salesforce Flow Automation Implementations Week 1 Day 2,2025-08-17 22:00:00,71.0,24.0,0.3380281690140845,1.0,0.041666666666666664
+a6807fed-162c-4a30-8543-b58cbd737efd,Triple Play Course B. Salesforce Flow Automation Implementations Week 2 Day 1,2025-08-23 22:00:00,73.0,21.0,0.2876712328767123,1.0,0.047619047619047616
+ab3483ed-3d83-41d4-a8b3-0e84c16d6a2e,Salesforce Experience Cloud Week 3 Day 1,2026-01-27 02:00:00,25.0,8.0,0.32,0.0,0.0
+ab808bb5-b014-48fd-9d5b-dee87c47bc6f,6 -Weeks Interview Prep Boot Camp - Week 10 [Day 2],2025-08-22 22:00:00,73.0,20.0,0.273972602739726,0.0,0.0
+acd37ea1-3374-4788-8b69-9804a92dfe2a,Data Analyst & Power BI Mock Interview Prep Series Week 4 Day 3,2025-11-02 21:00:00,83.0,5.0,0.060240963855421686,0.0,0.0
+b02e0b5b-dfc7-4dd6-b0f0-42dfaf5280cc,Advanced Salesforce  Service Cloud Week 1 Day 3,2026-02-07 17:00:00,35.0,0.0,0.0,0.0,
+b063cdb1-77d8-447d-9725-e239464aaf49,Triple Play Course B. Salesforce Flow Automation Implementations Week 6 Day 1,2025-09-21 16:44:00,75.0,6.0,0.08,0.0,0.0
+b0e09b6c-8bce-4b20-9b81-2fb3f4a54996,Data Analytics & Business Intelligence Week 3 Day 1,2026-01-25 20:00:00,38.0,15.0,0.39473684210526316,0.0,0.0
+b121aa9a-8d55-4aef-ba0a-e63ea94f7963,Data Analyst & Power BI Mock Interview Prep Series Week 4 Day 2,2025-11-01 21:00:00,80.0,0.0,0.0,0.0,
+b58286b3-ef29-417a-9a31-ddb0eac71324,Salesforce Experience Cloud Week 1 Day 2,2026-01-14 02:00:00,43.0,15.0,0.3488372093023256,0.0,0.0
+b678597a-c27a-49c0-9f93-2dbb7599a4d2,6 -Weeks Interview Prep Boot Camp - Week 6 [Day 2],2025-07-12 22:00:00,58.0,24.0,0.41379310344827586,0.0,0.0
+b925fcab-5e10-4db3-aab6-0cc1f5a131c9,6 -Weeks Interview Prep Boot Camp - Week 8 [Day 1],2025-08-07 22:00:00,70.0,18.0,0.2571428571428571,0.0,0.0
+bb5b6e66-c103-471c-ba93-3654ce562d0d,6 -Weeks Interview Prep Boot Camp - Week 3 Day 2,2025-06-21 22:00:00,56.0,16.0,0.2857142857142857,6.0,0.375
+c263673a-40cf-4ee5-944f-0972c3405f3c,6 -Weeks Interview Prep Boot Camp - Week 9 [Day 2],2025-08-15 22:00:00,71.0,21.0,0.29577464788732394,1.0,0.047619047619047616
+c2ca0527-ffd9-4a0d-b9ae-4434bfd5df28,Triple Play Course B. Salesforce Flow Automation Implementations Week 1 Day 1,2025-08-16 22:00:00,70.0,23.0,0.32857142857142857,1.0,0.043478260869565216
+c3471508-540e-4984-ad8a-3a7c2223f330,Triple Play Course B. Salesforce Flow Automation Implementations Week 10 Day 2,2025-10-25 22:00:00,81.0,0.0,0.0,0.0,
+c479567c-b95a-4fdc-907f-493818fc0b0b,HubSpot CRM Week 2 Day 2,2026-01-25 00:00:00,27.0,14.0,0.5185185185185185,0.0,0.0
+c67ecf81-aceb-444d-8314-bc604d2551e6,Salesforce Admin Essentials Week 1 ,2025-11-25 00:00:00,84.0,23.0,0.27380952380952384,1.0,0.043478260869565216
+c7bb68ac-a1a0-4c76-99ef-f90b47d7901a,Salesforce Admin Essentials Week 6 Day 2,2026-01-07 00:00:00,101.0,12.0,0.1188118811881188,3.0,0.25
+c84d66a5-aed3-47b8-ae9d-149d3765525e,Triple Play Course A. Salesforce Project Implementations  Week 4 Day 1,2025-08-09 22:00:00,67.0,20.0,0.29850746268656714,0.0,0.0
+ca882543-2264-4ab5-83fc-9a239c117cbe,6 -Weeks Interview Prep Boot Camp - Week 3 [Day 9],2025-06-22 22:00:00,55.0,20.0,0.36363636363636365,5.0,0.25
+d0bbb6fb-092a-4274-90aa-290ed9104330,6 -Weeks Interview Prep Boot Camp - Week 10 [Day 3],2025-08-23 17:00:00,74.0,14.0,0.1891891891891892,0.0,0.0
+d2ec0280-8a84-4055-a925-374d2f4fbbfc,"Salesforce Admin Trailhead, Tutorial Week 4",2025-12-20 00:00:00,1.0,0.0,0.0,0.0,
+d35fca5c-c232-4dc9-8862-bb3fec7987b1,6 -Weeks Interview Prep Boot Camp - Week 10 [Day 1],2025-08-21 22:00:00,73.0,22.0,0.3013698630136986,2.0,0.09090909090909091
+d3793e38-c32a-4010-8f90-7eb17622ec64,Triple Play Course B. Salesforce Flow Automation Implementations Week 10 Day 1,2025-10-19 22:00:00,81.0,8.0,0.09876543209876543,0.0,0.0
+d3d7259c-2919-4a0a-bc37-f0915cc9cd4a,Triple Play Course B. Salesforce Flow Automation Implementations Week 9 Day 2,2025-10-18 22:00:00,81.0,12.0,0.14814814814814814,1.0,0.08333333333333333
+d497d975-0cea-4d19-a10f-b3a9ce1188d8,6 -Weeks Interview Prep Boot Camp - Week 4 [Day 1],2025-06-27 22:00:00,56.0,13.0,0.23214285714285715,5.0,0.38461538461538464
+d4b26ff9-8a1a-464d-b93c-5c15433c3b9e,Salesforce Admin Essentials Week 4 Day 1,2025-12-16 00:00:00,59.0,17.0,0.288135593220339,1.0,0.058823529411764705
+d5dbc365-c0e2-45aa-9f07-866a54d71d1a,Data Analytics & Business Intelligence Week 3 Day 2,2026-01-27 00:00:00,38.0,18.0,0.47368421052631576,2.0,0.1111111111111111
+da90e4c5-f2f6-413d-9326-9d438e57a128,6 -Weeks Interview Prep Boot Camp - Week 12 [Day 2],2025-09-05 22:00:00,75.0,16.0,0.21333333333333335,0.0,0.0
+db9b8c11-791e-4235-8042-e24bfd726f41,6 -Weeks Interview Prep Boot Camp - Week 4 [Day 2],2025-06-28 22:00:00,55.0,20.0,0.36363636363636365,3.0,0.15
+db9be12e-29a6-4a04-84c8-dff54e3b0220,Triple Play Course B. Salesforce Flow Automation Implementations Week 7 Day 1,2025-09-28 22:00:00,76.0,10.0,0.13157894736842105,0.0,0.0
+dce74e45-155d-4dd9-a3f0-3559b54ec2e6,6 -Weeks Interview Prep Boot Camp - Week 4 [Day 3],2025-06-29 22:00:00,55.0,22.0,0.4,3.0,0.13636363636363635
+df6c7447-76a3-441f-a804-ddaa1a8b6f66,Data Analytics & Business Intelligence Week 4 Day 1,2026-01-31 00:00:00,39.0,21.0,0.5384615384615384,0.0,0.0
+e2945a77-0e1b-496e-9e6a-5fda7491b20d,Triple Play Course B. Salesforce Flow Automation Implementations Week 3 Day 1,2025-08-30 22:00:00,73.0,16.0,0.2191780821917808,0.0,0.0
+e2dc31e7-eb82-407f-9d77-2f20dfa9c320,6 -Weeks Interview Prep Boot Camp - Week 6 [Day 3],2025-07-13 22:00:00,58.0,24.0,0.41379310344827586,0.0,0.0
+e5eee2dc-c433-41e2-9a5c-cb5ae4476fff,60++ hours interview prep,2025-06-21 15:30:00,2.0,2.0,1.0,2.0,1.0
+e75b7fdd-c388-4f76-96c7-2aa22d2dfada,6 -Weeks Interview Prep Boot Camp - Week 3 [Day 7],2025-06-20 22:00:00,55.0,13.0,0.23636363636363636,9.0,0.6923076923076923
+eaa40d77-0d0e-4e3f-8b3d-bc85638f48d0,Data Analytics & Business Intelligence Week 3 Day 1,2026-02-03 00:00:00,42.0,22.0,0.5238095238095238,0.0,0.0
+ef2a6d6d-8e36-45c5-92f9-65d1b44b6c2e,6 -Weeks Interview Prep Boot Camp - Week 7 [Day 1],2025-07-18 22:00:00,61.0,19.0,0.3114754098360656,1.0,0.05263157894736842
+f2cfe0bd-d5cd-42a1-8fd2-f4ea0e663901,Data Analyst & Power BI Mock Interview Prep Series Week 1 Day 1,2025-10-08 04:00:00,77.0,9.0,0.11688311688311688,0.0,0.0
+fb909fee-5fd0-4aeb-94aa-0d75f15bbf65,6 -Weeks Interview Prep Boot Camp - Week 5 [Day 1],2025-07-04 22:00:00,60.0,27.0,0.45,2.0,0.07407407407407407
+fbdfc134-8d65-4c4e-a6b2-ddf81061b83f,Triple Play Course Alpha. Salesforce Project Implementations  Week 1 Day1,2025-07-19 22:00:00,61.0,23.0,0.3770491803278688,2.0,0.08695652173913043
+fc45da73-6b5c-4871-a705-1cf34bc127d5,Triple Play Course B. Salesforce Flow Automation Implementations Week 4 Day 2,2025-09-13 22:00:00,74.0,14.0,0.1891891891891892,0.0,0.0
+ff502483-4ecf-426b-bc87-acfbe9da5f56,6 -Weeks Interview Prep Boot Camp - Week 11 [Day 2],2025-08-29 22:00:00,74.0,21.0,0.28378378378378377,0.0,0.0
+ff63c76f-c538-4531-848e-e4c482ca2363,Salesforce Admin Essentials Week 5 Day 1,2025-12-23 00:00:00,96.0,12.0,0.125,1.0,0.08333333333333333

@@ -1,0 +1,5 @@
+reason,count,mean,median
+Approved by Baba,4,23.0,22.0
+Payment card Issue,1,53.0,53.0
+Pleaded for payment grace and approved by Baba,1,58.0,58.0
+Unknown,4,12.0,7.0

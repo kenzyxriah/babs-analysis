@@ -1,0 +1,4 @@
+gapType,userCount,notes
+paid_not_assigned,3,Succeeded payment without enrollment record
+assigned_not_paid,125,Enrollment without a succeeded payment
+active_access_no_recent_login,27,Enrollment with no login in last 30 days
